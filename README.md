@@ -1,1 +1,1 @@
-# health_premium_prediction
+# health-premium-prediction
